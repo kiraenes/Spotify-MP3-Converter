@@ -104,9 +104,9 @@ Músicas individuais
 
 Exemplos:
 
-https://open.spotify.com/playlist/...
-https://open.spotify.com/album/...
-https://open.spotify.com/track/...
+[https://open.spotify.com/playlist/...](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GSvAY?si=k_Igr0lMSwikI2SAzjxupg)
+[https://open.spotify.com/album/...](https://open.spotify.com/intl-pt/album/6KLrnVqUhPpX4IzgHgsJTg?si=wiH25jU5S4Gh_wDE92awNQ)
+[https://open.spotify.com/track/...](https://open.spotify.com/intl-pt/track/3HfKlhohNNTLIv2t9uvmzz?si=5700c37948694aa0)
 
 5️⃣ Esperar o processo terminar
 
@@ -234,9 +234,9 @@ Track
 
 Examples:
 
-https://open.spotify.com/playlist/...
-https://open.spotify.com/album/...
-https://open.spotify.com/track/...
+[https://open.spotify.com/playlist/...](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GSvAY?si=k_Igr0lMSwikI2SAzjxupg)
+[https://open.spotify.com/album/...](https://open.spotify.com/intl-pt/album/6KLrnVqUhPpX4IzgHgsJTg?si=wiH25jU5S4Gh_wDE92awNQ)
+[https://open.spotify.com/track/...](https://open.spotify.com/intl-pt/track/3HfKlhohNNTLIv2t9uvmzz?si=5700c37948694aa0)
 
 5️⃣ Wait for downloads
 
@@ -250,3 +250,4 @@ So you must re-upload:
 
 ✔ keys.env
 ✔ cookies.txt (if used)
+
