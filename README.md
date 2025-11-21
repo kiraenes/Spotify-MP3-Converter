@@ -1,8 +1,11 @@
-🇵🇹 README COMPLETO (PT-PT) 🎧 Spotify MP3 Converter
+🇵🇹 README COMPLETO (PT-PT)
+🎧 Spotify MP3 Converter
 
-Converte playlists, álbuns e músicas do Spotify para MP3 usando o Google Colab. Os utilizadores não precisam de editar código — apenas carregam o seu keys.env e, opcionalmente, cookies.txt.
+Converte playlists, álbuns e músicas do Spotify para MP3 usando o Google Colab.
+Os utilizadores não precisam de editar código — apenas carregam o seu keys.env e, opcionalmente, cookies.txt.
 
 ▶️ Abrir no Google Colab
+
 
 🟩 1. Como obter as API Keys do Spotify
 
@@ -10,7 +13,7 @@ Para ler músicas/playlists/álbuns, precisas de API keys.
 
 1️⃣ Abrir o Spotify Developer Dashboard
 
-
+<a href="https://developer.spotify.com/dashboard" target="_blank"> <img src="https://img.shields.io/badge/Abrir%20Spotify%20Dashboard-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/> </a>
 
 Faz login com a tua conta Spotify.
 
@@ -28,7 +31,9 @@ Cria a app
 
 Na tua app vais encontrar:
 
-Client ID Client Secret
+Client ID
+Client Secret
+
 
 ⚠️ Nunca partilhes o Client Secret.
 
@@ -36,9 +41,14 @@ Client ID Client Secret
 
 Cria um ficheiro chamado keys.env com este conteúdo:
 
-SPOTIFY_CLIENT_ID=O_TEUP_CLIENT_ID SPOTIFY_CLIENT_SECRET=O_TEUP_CLIENT_SECRET
+SPOTIFY_CLIENT_ID=O_TEUP_CLIENT_ID
+SPOTIFY_CLIENT_SECRET=O_TEUP_CLIENT_SECRET
 
-⚠️ Sem aspas ⚠️ Sem redirect URI ⚠️ Exatamente como acima ⚠️ Não envies este ficheiro para o GitHub
+
+⚠️ Sem aspas
+⚠️ Sem redirect URI
+⚠️ Exatamente como acima
+⚠️ Não envies este ficheiro para o GitHub
 
 🟨 3. Como obter o ficheiro cookies.txt (Opcional)
 
@@ -50,7 +60,7 @@ Caso contrário → não uses cookies.
 
 1️⃣ Instalar a extensão “Get cookies.txt” (Chrome)
 
-
+<a href="https://chromewebstore.google.com/search/get%20cookies.txt" target="_blank"> <img src="https://img.shields.io/badge/Abrir%20Chrome%20Webstore-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
 
 2️⃣ Exportar cookies do YouTube
 
@@ -62,7 +72,8 @@ Escolhe Export cookies to cookies.txt
 
 Um ficheiro será criado no teu computador
 
-⚠️ Cuidado: contém informações privadas ⚠️ Nunca o partilhes
+⚠️ Cuidado: contém informações privadas
+⚠️ Nunca o partilhes
 
 🟦 4. Usar o Colab (muito simples)
 
@@ -73,6 +84,7 @@ Um ficheiro será criado no teu computador
 Quando o Colab pedir:
 
 📁 Faça upload do arquivo keys.env com suas chaves do Spotify:
+
 
 Seleciona o teu keys.env.
 
@@ -92,7 +104,9 @@ Músicas individuais
 
 Exemplos:
 
-https://open.spotify.com/playlist/... https://open.spotify.com/album/... https://open.spotify.com/track/...
+https://open.spotify.com/playlist/...
+https://open.spotify.com/album/...
+https://open.spotify.com/track/...
 
 5️⃣ Esperar o processo terminar
 
@@ -106,17 +120,21 @@ Quando terminar:
 
 ✅ Downloads completos! ZIP pronto.
 
+
 O ZIP é descarregado automaticamente.
 
 7️⃣ Nota importante
 
 O Colab apaga tudo ao reiniciar, por isso:
 
-✔ tens de enviar keys.env sempre ✔ tens de enviar cookies.txt se estiveres a usar
+✔ tens de enviar keys.env sempre
+✔ tens de enviar cookies.txt se estiveres a usar
 
-🇬🇧 README COMPLETE (ENGLISH VERSION) 🎧 Spotify MP3 Converter
+🇬🇧 README COMPLETE (ENGLISH VERSION)
+🎧 Spotify MP3 Converter
 
-Convert Spotify playlists, albums and tracks to MP3 using Google Colab. Users do not need to edit any code — just upload their own keys.env and optional cookies.txt.
+Convert Spotify playlists, albums and tracks to MP3 using Google Colab.
+Users do not need to edit any code — just upload their own keys.env and optional cookies.txt.
 
 ▶️ Open in Google Colab
 
@@ -124,7 +142,7 @@ Convert Spotify playlists, albums and tracks to MP3 using Google Colab. Users do
 
 1️⃣ Open Spotify Developer Dashboard
 
-
+<a href="https://developer.spotify.com/dashboard" target="_blank"> <img src="https://img.shields.io/badge/Open%20Spotify%20Dashboard-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/> </a>
 
 Log in with your Spotify account.
 
@@ -142,7 +160,9 @@ Create the app
 
 You will see:
 
-Client ID Client Secret
+Client ID
+Client Secret
+
 
 ⚠️ Do NOT share your Client Secret.
 
@@ -150,9 +170,14 @@ Client ID Client Secret
 
 Create a file named keys.env with:
 
-SPOTIFY_CLIENT_ID=YOUR_CLIENT_ID SPOTIFY_CLIENT_SECRET=YOUR_CLIENT_SECRET
+SPOTIFY_CLIENT_ID=YOUR_CLIENT_ID
+SPOTIFY_CLIENT_SECRET=YOUR_CLIENT_SECRET
 
-⚠️ No quotes ⚠️ No redirect URI ⚠️ Exactly like this ⚠️ Do NOT upload this to GitHub
+
+⚠️ No quotes
+⚠️ No redirect URI
+⚠️ Exactly like this
+⚠️ Do NOT upload this to GitHub
 
 🟨 3. How to Get cookies.txt (Optional)
 
@@ -160,13 +185,14 @@ This file is only needed if:
 
 Your playlist is very large
 
-YouTube blocks you with “Sign in to confirm you're not a bot”
+YouTube blocks you with
+“Sign in to confirm you're not a bot”
 
 Otherwise → skip it.
 
 1️⃣ Install “Get cookies.txt” extension
 
-
+<a href="https://chromewebstore.google.com/search/get%20cookies.txt" target="_blank"> <img src="https://img.shields.io/badge/Open%20Chrome%20Webstore-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
 
 2️⃣ Export YouTube cookies
 
@@ -190,6 +216,7 @@ When prompted:
 
 Upload the keys.env file
 
+
 Upload it.
 
 3️⃣ Upload cookies.txt (optional)
@@ -200,11 +227,16 @@ If not needed → click Cancel.
 
 Accepted:
 
-Playlist Album Track
+Playlist
+Album
+Track
+
 
 Examples:
 
-https://open.spotify.com/playlist/... https://open.spotify.com/album/... https://open.spotify.com/track/...
+https://open.spotify.com/playlist/...
+https://open.spotify.com/album/...
+https://open.spotify.com/track/...
 
 5️⃣ Wait for downloads
 
@@ -216,4 +248,5 @@ The Colab automatically downloads it.
 
 So you must re-upload:
 
-✔ keys.env ✔ cookies.txt (if used)
+✔ keys.env
+✔ cookies.txt (if used)
