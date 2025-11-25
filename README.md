@@ -62,6 +62,11 @@ Caso contrário → não uses cookies.
 
 <a href="https://chromewebstore.google.com/search/get%20cookies.txt" target="_blank"> <img src="https://img.shields.io/badge/Abrir%20Chrome%20Webstore-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
 
+este abaixo é melhor por agora desde que o youtube atualizou as permissoes de download
+
+<a href="https://chromewebstore.google.com/detail/get-cookiestxt/lejghbakipikdkhhbadoegdcadgaomkc" target="_blank"> <img src="https://img.shields.io/badge/Abrir%20Chrome%20Webstore-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
+
+
 2️⃣ Exportar cookies do YouTube
 
 Abre o YouTube (logado)
@@ -194,6 +199,10 @@ Otherwise → skip it.
 
 <a href="https://chromewebstore.google.com/search/get%20cookies.txt" target="_blank"> <img src="https://img.shields.io/badge/Open%20Chrome%20Webstore-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
 
+this one bellow is a bit more compateble right now since youtube updated its traking of downloads
+
+<a href="https://chromewebstore.google.com/detail/get-cookiestxt/lejghbakipikdkhhbadoegdcadgaomkc" target="_blank"> <img src="https://img.shields.io/badge/Abrir%20Chrome%20Webstore-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
+
 2️⃣ Export YouTube cookies
 
 Open YouTube (logged in)
@@ -250,4 +259,5 @@ So you must re-upload:
 
 ✔ keys.env
 ✔ cookies.txt (if used)
+
 
